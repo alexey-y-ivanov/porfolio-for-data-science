@@ -1,1 +1,1 @@
-# porfolio-for-data-science
+В данном порфтолио приведены работы по Data Science/Machine Learning для задач регрессии и классификации.
